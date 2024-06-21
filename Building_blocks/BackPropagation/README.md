@@ -1,0 +1,1 @@
+This follows <www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ> to build micrograd which is a small version of autograd in pytorch which essentially does backpropagation.
